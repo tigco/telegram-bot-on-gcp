@@ -1,5 +1,5 @@
 # telegram-bot-on-gcp
-This Telegram bot is a Google Cloud function. It also uses Google Cloud Datastore. It shows how to use Telegram location services, keyboards,
+This Telegram bot is a Google Cloud function. It also uses Google Cloud Datastore. It shows how to use Telegram location services, keyboards, and more.
 
 # Installation
 1. Create a telegram bot https://core.telegram.org/bots
