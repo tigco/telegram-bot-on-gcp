@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 """This Telegram bot helps users share current availability and approximate location
 with members of the same organization. The users must also be within a specified distance.
